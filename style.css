@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.col-3 i{
+    font-size: xx-large;
+ font-weight: bolder;
+
+}
+.container-fluid{
+    font-family: cursive;
+   
+    color: azure;
+    font-weight: bolder;
+}
+/* .second {
+    position: sticky;
+    top: 0%;
+    z-index: 1; */
+
+/* our collections */
+.our:hover{
+    box-shadow:2px 2px crimson ;
+    
+
+}
+
+.foot{
+    background-color: rgba(0, 139, 139, 0.422);
+
+}
+.pic:hover{transform: scale(1.1) ;
+
+}
+.dec:hover{
+    color: crimson;
+}
